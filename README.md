@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "resources/gifs/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/BANZOM/BANZOM/raw/main/resources/gifs/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="resources/gifs/Right_Side.gif" width = 250px></picture>
 
@@ -109,6 +109,3 @@
 <br>
 <br>
 <br>
-
-
------
