@@ -11,7 +11,7 @@
 
 
 	
-## **About me**
+## 👨🏻‍💻 &nbsp; **About me**
 <br>
 
 - A passionate Self-taught Machine Learning Engineer
@@ -60,7 +60,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..! <img src="https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/handshake.gif" width ="80"></b>
+## <b> 🤝🏻 &nbsp; Let's Connect..!</b>
 <br>
 <div align='left'>
 
