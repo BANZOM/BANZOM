@@ -6,9 +6,15 @@
 </p>
 
 
-<br>	
+<!-- <br>	
 👨🏻‍💻 &nbsp; **About me**
+<br> -->
+	
+## 👨🏻‍💻 &nbsp; **About me**
+
+
 <br>
+
 
 - A passionate Self-taught Machine Learning Engineer
 - Currently learning Web Development and DevOps 
