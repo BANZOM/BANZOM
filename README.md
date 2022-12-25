@@ -11,9 +11,9 @@
 
 
 	
-## <picture><img src = "https://github.com/BANZOM/BANZOM/raw/main/resources/gifs/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="resources/gifs/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -63,7 +63,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="resources/gifs/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
