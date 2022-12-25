@@ -12,9 +12,7 @@
 	
 ## 👨🏻‍💻 &nbsp; **About me**
 
-
 <br>
-
 
 - A passionate Self-taught Machine Learning Engineer
 - Currently learning Web Development and DevOps 
@@ -43,9 +41,7 @@
    ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
    ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
    ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-
-
-    
+ 
 <br>
 
 - **Softwares and Tools**:
@@ -62,8 +58,6 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 <br>
  
-
-
 </p>
 
 <br>
@@ -71,16 +65,7 @@
 
 -----
 
-
-
-
-
-
-
-
-
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
