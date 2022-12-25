@@ -11,10 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/Right_Side.gif" width = 250px></picture>
-
+## **About me**
 <br>
 
 - A passionate Self-taught Machine Learning Engineer
@@ -63,7 +60,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/handshake.gif" width ="80">
+## <b> Let's Connect..! <img src="https://github.com/BANZOM/BANZOM/raw/test/resources/gifs/handshake.gif" width ="80"></b>
 <br>
 <div align='left'>
 
