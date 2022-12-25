@@ -7,7 +7,7 @@
 
 
 <br>	
-## 👨🏻‍💻 &nbsp; **About me**
+👨🏻‍💻 &nbsp; **About me**
 <br>
 
 - A passionate Self-taught Machine Learning Engineer
