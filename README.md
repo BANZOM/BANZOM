@@ -81,10 +81,21 @@
 <div align="center">
 
 <a href="https://github.com/banzom">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=banzom&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=banzom&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=banzom&show_icons=true&theme=tokyonight&line_height=29" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banzom&hide_progress=true&theme=tokyonight&langs_count=6" />
+	
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BANZOM&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=banzom&theme=tokyonight" /> -->
 
 </a>
+<!--	
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+-->
 </div>
 
 <br>
