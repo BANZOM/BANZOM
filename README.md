@@ -16,7 +16,7 @@
 
 - A passionate Self-taught Machine Learning Engineer
 - Currently learning Web Development and DevOps 
-- Personal website [link](https://banzo.carrd.co)
+- Personal website [link](https://banzo.tech)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1w80Babn4wv7r5TRNY8Rhzr89XirG-mqm?usp=share_link)
 
 <br><br>
